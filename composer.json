@@ -1,0 +1,15 @@
+{
+    "name": "aleksandrfedosienko/test-composer",
+    "autoload": {
+        "psr-4": {
+            "Aleksandrfedosienko\\TestComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alexfedosienko",
+            "email": "alexfedosienko@gmail.com"
+        }
+    ],
+    "require": {}
+}
