@@ -1,5 +1,6 @@
 {
     "name": "aleksandrfedosienko/test-composer",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Aleksandrfedosienko\\TestComposer\\": "src/"
