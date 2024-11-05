@@ -1,9 +1,9 @@
 {
-    "name": "aleksandrfedosienko/test-composer",
+    "name": "alexfedosienko/test-composer",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Aleksandrfedosienko\\TestComposer\\": "src/"
+            "TestComposer\\": "src/"
         }
     },
     "authors": [
