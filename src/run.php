@@ -4,6 +4,6 @@ namespace TestComposer;
 
 class Run {
 	public static function run() {
-		echo "Hello world";
+		echo "Hello world\n";
 	}	
 }
